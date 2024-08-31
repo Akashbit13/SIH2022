@@ -20,10 +20,10 @@ const Footer = () => {
             <img src={logo} className="footerLogo" alt="" />
             <div className="ml-4">
               <h3 className="text-2xl text-white font-bold mt-4">
-                Krishi <br /> Sadhan
+                annabhumi
               </h3>
               <p className="text-md font-normal text-white mt-2">
-                Kisaan upkaran ka ek Matra Sadhan.
+                a secure market place for farmer.
               </p>
             </div>
           </div>
@@ -101,13 +101,13 @@ const Footer = () => {
             />
           </div>
           <p className="text-lg ml-6 text-white">
-            Made by : <strong>Team Gryffindor</strong>
+            Made by : <strong>BitBuddies</strong>
           </p>
         </div>
         <div className="flex-1 flex mr-6">
           <img src={footerBg} className="footerBgImg" alt="" />
           <h1 className="text-xl text-white font-bold mt-6">
-            Ministry of Skill Development and Entrepreneurship
+          Ministry of Agriculture and Farmer Welfare
           </h1>
         </div>
       </div>
@@ -115,4 +115,4 @@ const Footer = () => {
   );
 };
 
-export default Footer;
+export default Footer;
